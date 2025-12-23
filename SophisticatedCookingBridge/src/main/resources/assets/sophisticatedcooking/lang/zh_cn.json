@@ -1,0 +1,22 @@
+{
+  "mod.sophisticatedcooking.name": "精妙厨房桥接",
+  "mod.sophisticatedcooking.description": "桥接懒人厨房和精妙存储模组",
+
+  "config.sophisticatedcooking.title": "精妙厨房桥接",
+  "config.sophisticatedcooking.searchRange": "容器搜索范围",
+  "config.sophisticatedcooking.searchRange.tooltip": "从厨房工作站搜索精妙存储容器的范围（1-64）",
+  "config.sophisticatedcooking.enableBackpacks": "启用背包访问",
+  "config.sophisticatedcooking.enableBackpacks.tooltip": "允许访问精妙背包",
+  "config.sophisticatedcooking.showCompatMessage": "显示兼容性消息",
+  "config.sophisticatedcooking.showCompatMessage.tooltip": "在游戏加载时显示兼容性消息",
+  "config.sophisticatedcooking.enableDebugLogging": "启用调试日志",
+  "config.sophisticatedcooking.enableDebugLogging.tooltip": "启用调试日志以便故障排除",
+  "config.sophisticatedcooking.maxContainersPerKitchen": "每个厨房最大容器数",
+  "config.sophisticatedcooking.maxContainersPerKitchen.tooltip": "一个厨房可以访问的最大精妙存储容器数量",
+  "config.sophisticatedcooking.requirePowerForAccess": "需要电力才能访问",
+  "config.sophisticatedcooking.requirePowerForAccess.tooltip": "精妙存储容器需要有电力才能被厨房访问",
+
+  "message.sophisticatedcooking.compat_loaded": "§a精妙厨房桥接加载成功！",
+  "message.sophisticatedcooking.compat_missing": "§c精妙厨房桥接需要懒人厨房和精妙存储模组！",
+  "message.sophisticatedcooking.containers_found": "找到 §e%s§r 个精妙存储容器"
+}

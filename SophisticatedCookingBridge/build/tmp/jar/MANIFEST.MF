@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: sophisticatedcookingbridge
+Specification-Vendor: example
+Specification-Version: 1
+Implementation-Title: SophisticatedCookingBridge
+Implementation-Version: 1.0.0
+Implementation-Vendor: example
+Implementation-Timestamp: 2025-12-23T18:17:14+0800
+

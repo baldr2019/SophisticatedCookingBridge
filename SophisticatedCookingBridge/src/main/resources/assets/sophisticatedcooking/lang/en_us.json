@@ -1,0 +1,22 @@
+{
+  "mod.sophisticatedcooking.name": "Sophisticated Cooking Bridge",
+  "mod.sophisticatedcooking.description": "Bridges Cooking for Blockheads and Sophisticated Storage",
+
+  "config.sophisticatedcooking.title": "Sophisticated Cooking Bridge",
+  "config.sophisticatedcooking.searchRange": "Container Search Range",
+  "config.sophisticatedcooking.searchRange.tooltip": "Range in blocks to search for Sophisticated Storage containers (1-64)",
+  "config.sophisticatedcooking.enableBackpacks": "Enable Backpack Access",
+  "config.sophisticatedcooking.enableBackpacks.tooltip": "Allow access to Sophisticated Backpacks",
+  "config.sophisticatedcooking.showCompatMessage": "Show Compatibility Message",
+  "config.sophisticatedcooking.showCompatMessage.tooltip": "Show compatibility message on game load",
+  "config.sophisticatedcooking.enableDebugLogging": "Enable Debug Logging",
+  "config.sophisticatedcooking.enableDebugLogging.tooltip": "Enable debug logging for troubleshooting",
+  "config.sophisticatedcooking.maxContainersPerKitchen": "Max Containers per Kitchen",
+  "config.sophisticatedcooking.maxContainersPerKitchen.tooltip": "Maximum number of Sophisticated Storage containers a kitchen can access",
+  "config.sophisticatedcooking.requirePowerForAccess": "Require Power for Access",
+  "config.sophisticatedcooking.requirePowerForAccess.tooltip": "Require Sophisticated Storage containers to have power for kitchen access",
+
+  "message.sophisticatedcooking.compat_loaded": "§aSophisticated Cooking Bridge loaded successfully!",
+  "message.sophisticatedcooking.compat_missing": "§cSophisticated Cooking Bridge requires Cooking for Blockheads and Sophisticated Storage!",
+  "message.sophisticatedcooking.containers_found": "Found §e%s§r Sophisticated Storage containers"
+}

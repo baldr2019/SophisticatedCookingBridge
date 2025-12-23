@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="sophisticatedcooking"
+version="${file.jarVersion}"
+displayName="Sophisticated Cooking Bridge"
+description="Bridges Cooking for Blockheads and Sophisticated Storage. Requires both mods to be installed separately for functionality."
+authors="YourName"
+logoFile="example_logo.png" # 可选，如果你有logo的话
+
+# 只保留对Forge和Minecraft的必要依赖，移除对其他模组的声明。
+[[dependencies.sophisticatedcooking]]
+modId="forge"
+versionRange="[40.2.10,)"
+mandatory=true
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.sophisticatedcooking]]
+modId="minecraft"
+versionRange="[1.18.2,1.19)"
+mandatory=true
+ordering="NONE"
+side="BOTH"
